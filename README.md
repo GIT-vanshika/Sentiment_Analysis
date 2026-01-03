@@ -108,3 +108,5 @@ sentiment regimes still shape how aggressively top traders deploy risk.
 
    ```bash
    pip install -r requirements.txt
+## Access Full Summary Here
+Notion Link: https://www.notion.so/Trader-Behaviour-under-Bitcoin-Fear-Greed-Sentiment-2ddbab83bfd580f4ab2cd180de6d90f9?source=copy_link
